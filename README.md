@@ -2,4 +2,4 @@
 ## Temat projektu
 
 ### Krótki opis
-Opis opis opis...
+Opis opis opis... korekta 
