@@ -1,5 +1,5 @@
-#Imię i nazwisko
-##Temat projektu
+# Imię i nazwisko
+## Temat projektu
 
-###Krótki opis
+### Krótki opis
 Opis opis opis...
